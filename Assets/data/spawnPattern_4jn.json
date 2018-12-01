@@ -1,0 +1,30 @@
+{
+  "record": 
+  
+	[
+    
+		{"roadID": 16,
+ "spawnGap": 1,
+ "probability": [
+0.5,
+0.3
+]},
+ 
+		{"roadID": 4,
+ "spawnGap": 1,
+ "probability": [
+0.5,
+0.3
+]},
+    
+		{"roadID": 6, "spawnGap": 2, "probability": [0.3,0.4]}
+,
+		{"roadID": 8, "spawnGap": 0.5, "probability": [0.7,0.2]},
+  
+		{"roadID": 18, "spawnGap": 2, "probability": [0.2,0.3]},
+		{"roadID": 12, "spawnGap": 2, "probability": [0.3,0.2]},
+		{"roadID": 20, "spawnGap": 3, "probability": [0.2,0.3]},
+		{"roadID": 22, "spawnGap": 4, "probability": [0.3,0.2]}
+	]
+
+}
